@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <!--finalName>myapp1</finalName-->
+    <!--finalName>myapp</finalName-->
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
